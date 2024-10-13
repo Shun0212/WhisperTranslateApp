@@ -1,4 +1,4 @@
-# ChatGPT APIを用いた翻訳機能、カメラ認識機能Androidアプリ
+# ChatGPT APIを用いた翻訳,発話Androidアプリ
 
 このプロジェクトは、WhisperAPIとOpenAI APIを用いた翻訳を,TTSを用いて発話することのできるアプリです。CameraAndTranslateGPTAppの翻訳機能のみを取り出し使いやすくしました.
 以下は実際の画面です,
